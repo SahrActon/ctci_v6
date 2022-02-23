@@ -1,3 +1,5 @@
+package Examples;
+
 public class Example_2 {
 
     public static void printPairs(int [] array ){

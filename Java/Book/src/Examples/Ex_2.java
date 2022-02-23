@@ -1,3 +1,5 @@
+package Examples;
+
 public class Ex_2 {
 
     public static int pairSumSequence(int n){

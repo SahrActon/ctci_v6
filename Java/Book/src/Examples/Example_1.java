@@ -1,3 +1,5 @@
+package Examples;
+
 public class Example_1 {
 
     public static void foo(int[] array) {
